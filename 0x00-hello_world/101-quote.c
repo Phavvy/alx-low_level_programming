@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
  * main - prints out the last part of a qoute in the standard error.
  * Return: 1 if success.
